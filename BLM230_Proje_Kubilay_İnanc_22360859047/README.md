@@ -43,6 +43,7 @@ Bellekteki veri kısmında isterseniz hata oluşturabilirsiniz.
 
 📷 Ekran Görüntüsü
 
+![Ekran görüntüsü 2025-06-03 165445](https://github.com/user-attachments/assets/f5e46ae7-48cb-45a9-9b5e-eef6a392f7a2)
 
 ✍️ Geliştirici
 Ad Soyad: Kubilay İnanç
