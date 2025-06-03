@@ -1,4 +1,5 @@
 Hamming SEC-DED Simülatörü (BLM230 Projesi)
+
 📌 Proje Açıklaması
 Bu proje, tek-bit hata düzeltme ve çift-bit hata tespiti (SEC-DED: Single Error Correction, Double Error Detection) yeteneğine sahip Hamming Kodu algoritmasının Python ile grafik arayüzlü (GUI) bir simülasyonudur.
 
